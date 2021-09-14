@@ -1,4 +1,4 @@
-CDSN讲解：https://www.bi7jta.cn/wiki/index.php?title=首页#.E5.AE.89.E8.A3.85Pi-Star.E7.B3.BB.E7.BB.9F 
+CDSN讲解：https://blog.csdn.net/zhanglizhi111/article/details/79707986
 
 # VideoEditDemo
 Ios视频使用gpuimage加水印、使用avfoundation加水印、裁剪、拼接、加背景音乐等视频编辑的一个demo
